@@ -1,0 +1,48 @@
+
+
+#hrOne{
+  -webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: auto;
+-webkit-margin-end: auto;
+margin-left: 5em;
+margin-right: 5em;
+
+}
+#hrTwo{
+
+  -webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: auto;
+-webkit-margin-end: auto;
+margin-left: 5em;
+margin-right: 5em;
+
+}
+
+#hrThree{
+
+  -webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: auto;
+-webkit-margin-end: auto;
+margin-left: 5em;
+margin-right: 5em;
+
+}
+
+
+#hrFour{
+  -webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: auto;
+-webkit-margin-end: auto;
+margin-left: 5em;
+margin-right: 5em;
+}
+
+
+.media{
+  margin-left: 5em;
+  margin-right: 5em;  
+}
